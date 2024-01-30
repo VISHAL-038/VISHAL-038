@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @VISHAL-038
-- 🌱 I’m currently learning web development using HTML, CSS,  JavaScript , React and Node.
+- 👋 Hi, I’m Vishal
+- 🌱 I’m currently pursuing my B.Tech from rayat bahra university.
 - 💞️ 
 - 📫 How to reach me: You can email me at vk067414@gmail.com 
 - 😄 Pronouns: He/Him
