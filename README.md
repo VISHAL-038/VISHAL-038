@@ -1,7 +1,14 @@
-- 👋 Hi, I’m Vishal
-- 🌱 I’m currently pursuing my B.Tech from rayat bahra university.
-- 📫 How to reach me: You can email me at vishaal03.it@gmail.com
-- 😄 Pronouns: He/Him
+
+👋 **Hey there! I'm Vishal!**
+
+🌱 **Currently Pursuing:**  
+I’m on an exciting journey, working towards my B.Tech in Computer Science and Engineering at Rayat Bahara University. 🚀
+
+📫 **Let's Connect:**  
+Have questions, ideas, or just want to chat? Shoot me an email at [vishaal03.it@gmail.com](mailto:vishaal03.it@gmail.com). I'd love to hear from you! 💌
+
+😄 **Pronouns:**  
+He/Him
 
 
 
